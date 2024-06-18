@@ -1,5 +1,5 @@
 # 100DaysOfCode
-:brazil: Descrição :brazil:
+:bra: Descrição :bra:
 O 100DaysOfCode é um repositório para registrar a minha evolução no Curso "100 Days of Code: The Complete Python Pro Bootcamp da Dr. Angela Yu", voltados para meu estudo contínuo da programação.
 
 :file_folder: Os projetos estão organizados em diretórios numerados de 1 a 100, representando cada dia de código. Por exemplo:
@@ -29,7 +29,7 @@ Ganhar experiência prática com projetos de complexidade crescente.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-:USA: Description :USA:
+:us: Description :us:
 100DaysOfCode is a repository to document my progress in the course "100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu," aimed at my continuous study of programming.
 
 :file_folder: The projects are organized into directories numbered from 1 to 100, representing each day of code. For example:
