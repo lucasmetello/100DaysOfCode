@@ -23,8 +23,6 @@ Descrição
 |   |-- README.md \
 |   |-- main.py \
 
-Em cada diretório, você encontrará um arquivo README.md específico do projeto, explicando o propósito e os detalhes de implementação.
-
 :dart: Objetivo 
 
 Consolidar meus conhecimentos em Python.\
@@ -55,7 +53,6 @@ Description
 |-- Day100 \
 |   |-- README.md \
 |   |-- main.py \
-In each directory, you will find a specific README.md file for the project, explaining its purpose and implementation details.
 
 :dart: Objective 
 
